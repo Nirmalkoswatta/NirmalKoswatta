@@ -96,5 +96,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&" alt="nirmalkoswatta" /></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matyo91/matyo91/master/assets/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
