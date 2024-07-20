@@ -91,7 +91,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&locale=en" alt="nirmalkoswatta" /></p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalkoswatta&show_icons=true&locale=en&layout=compact" alt="nirmalkoswatta" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalkoswatta&show_icons=true&locale=en&layout=compact" alt="nirmalkoswatta" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&" alt="nirmalkoswatta" /></p>
 
