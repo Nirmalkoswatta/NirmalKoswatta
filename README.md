@@ -89,11 +89,11 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalkoswatta&show_icons=true&locale=en&layout=compact" alt="nirmalkoswatta" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&locale=en" alt="nirmalkoswatta" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&locale=en" alt="nirmalkoswatta" /></p>
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmalkoswatta&show_icons=true&locale=en&layout=compact" alt="nirmalkoswatta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&" alt="nirmalkoswatta" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&" alt="nirmalkoswatta" /></p>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
