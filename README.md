@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirmal Koswatta </h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
-<img align="right" alt="Coding" width="400" src="[https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif](https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2859.jpg)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmalkoswatta&label=Profile%20views&color=0e75b6&style=flat" alt="nirmalkoswatta" /> </p>
 
