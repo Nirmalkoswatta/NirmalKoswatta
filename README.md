@@ -10,7 +10,7 @@
 - 💬 Ask me about **React, Laravel, Angular**
 - 📫 How to reach me **nirmalkoza@gmail.com**
 - ⚡ Fun fact: **I'm a die-hard boxing fan.**
-- 🇱🇰 From: **Sri Lanka**
+- 🌐 From: **Sri Lanka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
