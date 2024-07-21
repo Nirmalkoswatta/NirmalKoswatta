@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmalkoswatta&label=Profile%20views&color=0e75b6&style=flat" alt="nirmalkoswatta" /> </p>
 
 - 🔭 I’m currently working on **an Angular project**
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Python**
 - 🤝 I’m looking for help with **Internship**
 - 💬 Ask me about **React, Laravel, Angular**
 - 📫 How to reach me **nirmalkoza@gmail.com**
