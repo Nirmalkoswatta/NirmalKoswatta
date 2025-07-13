@@ -82,12 +82,5 @@
 
 ---
 
-### 🧠 3D GitHub Skyline
-
-> 🎆 Want to see my GitHub contribution city?
-
-🎥 Watch my 3D Skyline 👉 [skyline.github.com/nirmalkoswatta](https://skyline.github.com/nirmalkoswatta)
-
----
 
 
