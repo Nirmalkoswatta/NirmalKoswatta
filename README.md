@@ -90,11 +90,4 @@
 
 ---
 
-### 🐍 (Optional) Snake Graph
 
-> *(Playful, you can remove this if you want a clean profile)*
-
-```md
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
