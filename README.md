@@ -1,72 +1,100 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#1DA1F2">Nirmal Koswatta</span></h1>
+<h1 align="center">Hi there 👋, I'm Nirmal Koswatta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;DevOps+Enthusiast+💻;Open+Source+Contributor;Boxing+Lover+🥊;Let's+Build+the+Future+Together+🚀" alt="Typing SVG" />
+  <a href="https://github.com/nirmalkoswatta">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;DevOps+Enthusiast+💻;React+%7C+Angular+%7C+SpringBoot;Open+Source+Contributor;Boxing+Lover+🥊;Always+Learning+and+Building+🚀" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirmalkoswatta&label=Profile+views&color=0e75b6&style=flat" alt="nirmalkoswatta" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+---
 
-### 👨‍💻 About Me:
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 
-- 🔭 Currently working on: **Angular-based Admin Panel**
-- 🌱 Learning: **Python & DevOps Tools**
-- 💼 Looking for: **Remote Internship / Entry-Level Roles**
-- 💬 Ask me about: **React, Laravel, Angular, Firebase, REST APIs**
-- 🌍 Location: **Sri Lanka 🇱🇰**
-- ⚡ Fun fact: **Boxing is my second language 🥊**
-- 🧠 Dream: **Integrating AI with Robotics to impact the future**
+### 👨‍💻 About Me
+
+- 🔭 Currently working on: **Angular Admin Panels + DevOps Automation**
+- 🌱 Learning: **Python, Docker, CI/CD**
+- 💬 Ask me about: **React, Firebase, Angular, Laravel, Spring Boot**
+- 🤝 Looking for: **Remote Internships (Frontend / Full Stack)**
+- 📫 Contact: **nirmalkoza@gmail.com**
+- 🌍 From: **Sri Lanka 🇱🇰**
+- ⚡ Fun Fact: **I breathe code and boxing equally! 🥊**
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
-<p align="left">
-  <a href="mailto:nirmalkoza@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nirmal-koswatta-a7889b281" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/nirmal_kosa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/NKosa003" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://web.facebook.com/profile.php?id=100092316520017" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:nirmalkoza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nirmal-koswatta-a7889b281" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/nirmal_kosa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/NKosa003" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,cpp,c,react,redux,angular,nodejs,mysql,mongodb,firebase,tailwind,postman,git,figma,androidstudio,spring" />
-</div>
-
----
-
-### 🏆 Achievements & Goals
-
-- ✅ Built multiple full-stack projects using **MERN & Spring Boot**
-- 🚀 Developed **record systems, booking platforms, e-commerce**, and more
-- 🔧 Currently diving deep into **DevOps** (Docker, GitHub Actions, CI/CD)
-- 📚 Preparing for certifications and higher education in AI/ML
-- 🧪 Always learning, testing, and exploring new technologies
-
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nirmalkoswatta&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🐍 Contribution Graph Snake
+### 🎯 My Mission
 
+> 💡 *“To integrate AI and Robotics for real-world impact.”*  
+> 🔧 *Building solid DevOps pipelines and scalable systems.*  
+> 🌍 *Dreaming beyond boundaries. Working globally. Learning endlessly.*  
+
+---
+
+### 🏆 GitHub Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nirmalkoswatta&theme=algolia&no-frame=true&row=2&column=4" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=radical&hide=issues&hide_title=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nirmalkoswatta&theme=radical" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalkoswatta&theme=github-compact" />
+</p>
+
+---
+
+### 🧠 3D GitHub Skyline
+
+> 🎆 Want to see my GitHub contribution city?
+
+🎥 Watch my 3D Skyline 👉 [skyline.github.com/nirmalkoswatta](https://skyline.github.com/nirmalkoswatta)
+
+---
+
+### 🐍 (Optional) Snake Graph
+
+> *(Playful, you can remove this if you want a clean profile)*
+
+```md
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
