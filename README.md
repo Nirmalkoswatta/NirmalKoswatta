@@ -62,7 +62,12 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nirmalkoswatta&theme=flat&no-frame=true&row=2&column=4&rank=SSS&title=Commit,PullRequest,Issues,Repositories&margin-w=15&margin-h=15&no-bg=true" width="600" /> </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nirmalkoswatta&theme=flat&no-frame=true&title=Commit,PullRequest,Issues,Repositories&row=2&column=4&margin-w=15&margin-h=15" width="600" />
+</p>
+
+---
 
 ### 📊 GitHub Stats & Activity
 
