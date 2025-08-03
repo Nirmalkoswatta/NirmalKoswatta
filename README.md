@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=4A90E2&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;DevOps+Enthusiast;React+%7C+Angular+%7C+SpringBoot;Open+Source+Contributor;Boxing+Lover" alt="Typing animation" />
 </p>
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirmalkoswatta&style=flat-square&color=blue" alt="Profile views" />
 </p>
