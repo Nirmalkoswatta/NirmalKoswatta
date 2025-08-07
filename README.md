@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm <b>Nirmal Koswatta</b> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=4A90E2&center=true&vCenter=true&width=500&lines=Full- Stack+Developer;DevOps+Enthusiast;React+%7C+Angular+%7C+SpringBoot;Open+Source+Contributor;Boxing+Lover" alt="Typing animation" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=4A90E2&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%7C+Full-Stack+Developer;Code.+Deploy.+Automate.+Repeat."
+    alt="Typing animation"
+  />
 </p>
  
 <p align="center">
