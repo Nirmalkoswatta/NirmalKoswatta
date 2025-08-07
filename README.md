@@ -1,84 +1,68 @@
-<h1 align="center">Hi, I'm <b>Nirmal Koswatta</b> 👋</h1>
+<h1 align="center">👋 Hey there, I’m <strong>Nirmal “KOSA” Koswatta</strong>!</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=4A90E2&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%7C+Full-Stack+Developer;Code.+Deploy.+Automate.+Repeat."
-    alt="Typing animation"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=4A90E2&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Full-Stack+Architect;Automate.+Scale.+Secure.+;React+%7C+Node.js+%7C+K8s+%7C+Cloud;Building+Tomorrow’s+Systems+Today" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://yourdomain.com/hero-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://yourdomain.com/hero-light.png">
-    <img src="https://yourdomain.com/hero-light.png" alt="DevOps Hero" height="200"/>
-  </picture>
-</p>
+<!-- 🌊 Wave Separator -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nirmalkoswatta/nirmalkoswatta/master/assets/wave-light.svg" width="100%" />
+</div>
+
+## 🚀 Quick Bio
+
+| 🔭 Now        | 🌱 Learning            | 🤔 Ask me about          | 📫 How to reach me           |
+|--------------|------------------------|--------------------------|------------------------------|
+| Angular Admin Panels, Firebase Auth & CI/CD Pipelines | Python · Docker · GitHub Actions · AWS & Azure | React · Node.js · Kubernetes · MongoDB · Linux | [✉️ Email](mailto:nirmalkoza@gmail.com) |
+
+---
+
+## 🛠️ Core Tech & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,docker,kubernetes,github,git,aws,azure&theme=light" alt="Tech Icons" />
+</div>
+
+---
+
+## 📦 Featured Projects
+
+| Project | Tech Stack | Demo |
+|:-------:|:----------:|:----:|
+| **Inventory IM** <br/> Pharmacy IMS with full CI/CD | React · GraphQL · MongoDB · Docker · K8s | ![Demo](https://raw.githubusercontent.com/nirmalkoswatta/inventory-im/main/demo.gif) |
+| **CI/CD Monitor** <br/> Real-time build & deploy dashboard | React · GH Actions · Slack Alerts | ![Demo](https://raw.githubusercontent.com/nirmalkoswatta/ci-cd-monitor/main/demo.gif) |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirmalkoswatta&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&theme=light&hide_border=true&show_icons=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=light&hide_border=true" height="160" alt="Streak Stats" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 **Currently working on:** Angular Admin Panels · Firebase Auth · DevOps Pipelines  
-- 🌱 **Learning:** Python · Docker · GitHub Actions · AWS & Azure  
-- 💬 **Ask me about:** React · Node.js · Kubernetes · MongoDB · CI/CD · Linux · Nginx  
-- 🤝 **Open to:** Remote Internships (Frontend · DevOps · Full-Stack)  
-- 🥊 **Fun fact:** I code with the focus & discipline I learned from boxing!  
-- 📫 **Reach me:** [nirmalkoza@gmail.com](mailto:nirmalkoza@gmail.com)  
-- 🌍 **Location:** Sri Lanka 🇱🇰  
-
----
-
-### 🛠️ Tech Stack
+## 🌐 Connect & Collaborate
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,mongodb,git,github,docker,kubernetes,firebase&theme=light" alt="Tech Icons" />
-</p>
-
----
-
-### 📊 GitHub Stats & Achievements
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=light&hide_border=true"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=light&hide_border=true"
-    height="160"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:nirmalkoza@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <a href="https://linkedin.com/in/nirmal-koswatta-a7889b281" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/NKosa003" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://visitor-badge.glitch.me/badge?page_id=nirmalkoswatta.nirmalkoswatta">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=nirmalkoswatta.nirmalkoswatta" alt="Visitor Badge" />
+  <a href="https://github.com/nirmalkoswatta?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-★%20See%20All-000000?style=for-the-badge" alt="Repositories" />
   </a>
 </p>
 
----
+<!-- 🌊 Wave Separator -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nirmalkoswatta/nirmalkoswatta/master/assets/wave-light.svg" width="100%" style="transform: rotate(180deg)" />
+</div>
 
-### 🧠 Quote I Live By
+## 🧠 One Motto
 
-<p align="center">
-  <i>"I don’t chase success. I build systems that attract it." — Nirmal Kosa</i>
-</p>
+> “I don’t chase success — I architect systems that attract it.” 🥊
+
