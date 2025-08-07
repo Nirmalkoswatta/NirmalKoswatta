@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm <b>Nirmal Koswatta</b> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=4A90E2&center=true&vCenter=true&width=500&lines=Full- Stack+Developer;DevOps+Enthusiast;React+%7C+Angular+%7C+SpringBoot;Open+Source+Contributor;Boxing+Lover" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Full-Stack+Developer;React+%7C+Node+%7C+Kubernetes+%7C+MongoDB;CI%2FCD+%7C+GitHub+Actions+%7C+Docker+%7C+Cloud;Builder+of+Real-world+Projects;Code.+Deploy.+Monitor.+Repeat." alt="Typing animation" />
 </p>
- 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirmalkoswatta&style=flat-square&color=blue" alt="Profile views" />
 </p>
- 
----     
-  
+
+---
+
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **Angular Admin Panels, Firebase Auth & DevOps Pipelines**
@@ -22,7 +22,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:nirmalkoza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -33,30 +33,41 @@
 
 ---
 
-### 🛠️ Tech Stack 
+### 🛠️ Tech Stack
 
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=default&hide=issues&bg_color=ffffff&text_color=000000&icon_color=1A237E&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=default&background=ffffff&stroke=F57C00&ring=1A237E&fire=F57C00&currStreakNum=000000&sideNums=000000&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide_border=true&langs_count=6" />
 </p>
 
 ---
@@ -69,20 +80,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=default&hide_title=true&hide=issues&bg_color=ffffff&text_color=000000&icon_color=1A237E&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=default&background=ffffff&stroke=F57C00&ring=1A237E&fire=F57C00&currStreakNum=000000&sideNums=000000&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide_border=true&langs_count=6" />
-</p>
-
----   
-
-### 🔥 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalkoswatta&theme=github&bg_color=ffffff&color=1A237E&line=F57C00&point=F57C00&hide_border=true" />
@@ -90,10 +88,8 @@
 
 ---
 
-### ✨ Quote to Stand Out
+### 🧠 Quote I Live By
 
 <p align="center">
-  <i>“Code is like boxing — it’s all about strategy, timing, and persistence.” 🥊</i>
-</p>   
-
- 
+  <i>"I don’t chase success. I build systems that attract it." — Nirmal Kosa 💻🥊</i>
+</p>
