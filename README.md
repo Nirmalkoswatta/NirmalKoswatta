@@ -1,26 +1,26 @@
 <h1 align="center">Hi, I'm <b>Nirmal Koswatta</b> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=4A90E2&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Full-Stack+Developer;React+%7C+Node+%7C+Kubernetes+%7C+MongoDB;CI%2FCD+%7C+GitHub+Actions+%7C+Docker+%7C+Cloud;Builder+of+Real-world+Projects;Code.+Deploy.+Monitor.+Repeat." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F57C00&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%7C+Full-Stack+Developer;React+%7C+Node+%7C+Firebase+%7C+Kubernetes;CI%2FCD+%7C+GitHub+Actions+%7C+Cloud+Infra;Builder+of+Real-world+Projects;Discipline.+Power.+Code.+🥊" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="DevOps Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNmY3U5emkzcnF5ZDVndWk0Z2g0bmJhd3llamJ6azF4ZXBuMHZpeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5GoVLqeAOo6PK/giphy.gif" width="300" alt="Dev & Boxing" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirmalkoswatta&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
----   
-  
+---
+
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **Angular Admin Panels, Firebase Auth & DevOps Pipelines**
 - 🌱 Learning **Python, Docker, GitHub Actions & Cloud Engineering (AWS, Azure)**
 - 💬 Ask me about **React, Firebase, Angular, Laravel, Spring Boot, CI/CD, Linux, Nginx**
-- 🤝 Looking for **Remote Internships (Frontend / DevOps / Full Stack)**
-- ⚡ Fun fact: I balance coding with boxing — both fuel my discipline and energy 💪
+- 🤝 Open to **Remote Internships (Frontend / DevOps / Full Stack)**
+- 🥋 Passion: **Coding + Boxing = Energy + Discipline**
 - 📫 Reach me: [nirmalkoza@gmail.com](mailto:nirmalkoza@gmail.com)
 - 🌍 Based in: **Sri Lanka 🇱🇰**
 
@@ -29,38 +29,18 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:nirmalkoza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nirmalkoza@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/nirmal-koswatta-a7889b281" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/nirmal_kosa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/nirmal_kosa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/NKosa003" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack 
+### 🧰 Tech Stack
 
 <p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,redux,express,php,java,python,c,cpp,mongodb,mysql,firebase,docker,kubernetes,nginx,linux,git,github,figma" />
 </p>
 
 ---
@@ -68,36 +48,39 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nirmalkoswatta&theme=flat&no-frame=true&title=Commit,PullRequest,Issues,Repositories&row=2&column=4&margin-w=15&margin-h=15" width="600" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nirmalkoswatta&theme=matrix&no-frame=true&title=Commit,PullRequest,Repositories&row=1&column=4&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=default&hide_title=true&hide=issues&bg_color=ffffff&text_color=000000&icon_color=1A237E&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=default&background=ffffff&stroke=F57C00&ring=1A237E&fire=F57C00&currStreakNum=000000&sideNums=000000&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=dark&hide_title=true&hide=issues&bg_color=00000000&text_color=000000&icon_color=F57C00&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=dark&background=00000000&stroke=F57C00&ring=F57C00&fire=F57C00&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=dark&bg_color=00000000&text_color=000000&hide_border=true&langs_count=8" />
 </p>
 
----   
+---
 
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalkoswatta&theme=github&bg_color=ffffff&color=1A237E&line=F57C00&point=F57C00&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalkoswatta&theme=react-dark&bg_color=ffffff&color=F57C00&line=1A237E&point=1A237E&hide_border=true" />
 </p>
 
 ---
 
-### ✨ Quote to Stand Out
+### 💡 Quote I Live By
 
 <p align="center">
-  <i>“Code is like boxing — it’s all about strategy, timing, and persistence.” 🥊</i>
-</p>   
+  <img src="https://media.giphy.com/media/SUen8YzdfQzJq/giphy.gif" width="200" />
+</p>
 
- 
+<p align="center"><i>“Code is like boxing — it’s all about strategy, timing, and persistence.”</i></p>
+
+---
+
