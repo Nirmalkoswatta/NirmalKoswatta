@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="DevOps Animation"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirmalkoswatta&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
@@ -22,7 +26,7 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:nirmalkoza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -33,28 +37,10 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 
 <p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,angular,nodejs,express,php,java,python,c,cpp,mongodb,mysql,firebase,docker,kubernetes,nginx,git,linux,figma" />
 </p>
 
 ---
@@ -62,12 +48,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=default&hide=issues&bg_color=ffffff&text_color=000000&icon_color=1A237E&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=default&background=ffffff&stroke=F57C00&ring=1A237E&fire=F57C00&currStreakNum=000000&sideNums=000000&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=react&hide=issues&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=react&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=react&hide_border=true&langs_count=6" />
 </p>
 
 ---
@@ -83,13 +69,20 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalkoswatta&theme=github&bg_color=ffffff&color=1A237E&line=F57C00&point=F57C00&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalkoswatta&theme=github-compact&bg_color=ffffff&color=4A90E2&line=F57C00&point=F57C00&hide_border=true" />
 </p>
 
 ---
 
-### 🧠 Quote I Live By
+### ✨ Projects Highlight
 
-<p align="center">
-  <i>"I don’t chase success. I build systems that attract it." — Nirmal Kosa 💻🥊</i>
-</p>
+```yaml
+📦 DevOps Inventory System
+  ➤ Frontend: React + GraphQL + Tailwind
+  ➤ Backend: Node.js + MongoDB + Docker
+  ➤ Deployment: Kubernetes + GitHub Actions
+  ➤ Monitoring: Slack Alerts + CI/CD Tracking
+
+📊 CI/CD Monitoring Dashboard
+  ➤ Stack: React + GitHub Actions + Netlify + Slack
+  ➤ Visualize: Build Status, Commit Stats, and Fail Alerts
