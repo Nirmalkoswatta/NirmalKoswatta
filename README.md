@@ -6,21 +6,21 @@
     alt="Typing animation"
   />
 </p>
- 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nirmalkoswatta&style=flat-square&color=blue" alt="Profile views" />
 </p>
- 
----     
-  
+
+---
+
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Angular Admin Panels, Firebase Auth & DevOps Pipelines**
-- 🌱 Learning **Python, Docker, GitHub Actions & Cloud Engineering (AWS, Azure)**
-- 💬 Ask me about **React, Firebase, Angular, Laravel, Spring Boot, CI/CD, Linux, Nginx**
-- 🤝 Looking for **Remote Internships (Frontend / DevOps / Full Stack)**
-- ⚡ Fun fact: I balance coding with boxing — both fuel my discipline and energy 💪
-- 📫 Reach me: [nirmalkoza@gmail.com](mailto:nirmalkoza@gmail.com)
+- 🔭 Currently working on **Angular Admin Panels, Firebase Auth & DevOps Pipelines**  
+- 🌱 Learning **Python, Docker, GitHub Actions & Cloud Engineering (AWS, Azure)**  
+- 💬 Ask me about **React, Firebase, Angular, Laravel, Spring Boot, CI/CD, Linux, Nginx**  
+- 🤝 Looking for **Remote Internships (Frontend / DevOps / Full Stack)**  
+- ⚡ Fun fact: I balance coding with boxing — both fuel my discipline and energy 💪  
+- 📫 Reach me: [nirmalkoza@gmail.com](mailto:nirmalkoza@gmail.com)  
 - 🌍 Based in: **Sri Lanka 🇱🇰**
 
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠️ Tech Stack 
+### 🛠️ Tech Stack
 
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -75,20 +75,34 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=default&hide_title=true&hide=issues&bg_color=ffffff&text_color=000000&icon_color=1A237E&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=default&background=ffffff&stroke=F57C00&ring=1A237E&fire=F57C00&currStreakNum=000000&sideNums=000000&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=default&hide_title=true&hide=issues&bg_color=ffffff&text_color=000000&icon_color=1A237E&hide_border=true"
+    height="160"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=default&background=ffffff&stroke=F57C00&ring=1A237E&fire=F57C00&currStreakNum=000000&sideNums=000000&hide_border=true"
+    height="160"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide_border=true&langs_count=6" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide_border=true&langs_count=6"
+    alt="Top Languages"
+  />
 </p>
 
----   
+---
 
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalkoswatta&theme=github&bg_color=ffffff&color=1A237E&line=F57C00&point=F57C00&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalkoswatta&theme=github&bg_color=ffffff&color=1A237E&line=F57C00&point=F57C00&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -97,6 +111,4 @@
 
 <p align="center">
   <i>“Code is like boxing — it’s all about strategy, timing, and persistence.” 🥊</i>
-</p>   
-
- 
+</p>
