@@ -74,20 +74,29 @@
 
 ### 📊 GitHub Stats & Activity
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=default&hide_title=true&hide=issues&bg_color=ffffff&text_color=000000&icon_color=1A237E&hide_border=true"
+    height="160"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide_border=true&langs_count=6"
+    alt="Top Languages"
+  />
+</p>
+
 ---
 
 ### 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/generated/nirmalkoswatta.svg"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=dark&hide_border=true"
     alt="GitHub Streak Stats"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide_border=true&langs_count=6"
-    alt="Top Languages"
   />
 </p>
 
