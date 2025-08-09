@@ -74,19 +74,16 @@
 
 ### 📊 GitHub Stats & Activity
 
+---
+
+### 🔥 GitHub Streak
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nirmalkoswatta&show_icons=true&theme=default&hide_title=true&hide=issues&bg_color=ffffff&text_color=000000&icon_color=1A237E&hide_border=true"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nirmalkoswatta&theme=default&background=ffffff&stroke=F57C00&ring=1A237E&fire=F57C00&currStreakNum=000000&sideNums=000000&hide_border=true"
-    height="160"
+    src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/generated/nirmalkoswatta.svg"
     alt="GitHub Streak Stats"
   />
 </p>
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalkoswatta&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide_border=true&langs_count=6"
