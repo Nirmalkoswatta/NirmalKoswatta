@@ -35,31 +35,9 @@
 
 ---
 
-## **🛠️ Languages and Tools**  
-
+## 🛠️ Languages & Tools
 <p align="center">
-<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/cplusplus-456281.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/android-studio.svg"></code>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,nodejs,mongodb,docker,kubernetes,aws,gcp,azure,git,linux,python,java,c,cpp&perline=9" />
 </p>
 
 ---
@@ -71,6 +49,21 @@
 </p>
 
 ---
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/NirmalKoswatta">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://my-portfolio-78a8f.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:nirmalkoza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nirmalkoswatta">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ## 🔥 Contribution Streak  
 
