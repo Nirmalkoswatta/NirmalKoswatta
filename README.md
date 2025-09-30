@@ -72,6 +72,14 @@
 
 ---
 
+## 🏅 Multi-Language Trophies  
+
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=NirmalKoswatta&theme=flat&no-frame=true&title=MultiLanguage,Stars,Followers,Commits&row=1&column=4&margin-w=15&margin-h=15" width="600" />  
+</p>
+
+---
+
 ## 🔥 Contribution Streak  
 
 <p align="center">
