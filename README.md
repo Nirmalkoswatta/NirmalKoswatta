@@ -67,15 +67,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=NirmalKoswatta&theme=flat&no-frame=true&title=Commit,PullRequest,Issues,Repositories&row=2&column=4&margin-w=15&margin-h=15" width="600" />  
-</p>
-
----
-
-## 🏅 Multi-Language Trophies  
-
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=NirmalKoswatta&theme=flat&no-frame=true&title=MultiLanguage,Stars,Followers,Commits&row=1&column=4&margin-w=15&margin-h=15" width="600" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=NirmalKoswatta&theme=flat&no-frame=true&title=Commits,Contributions,Issues,PullRequest,Stars,Followers,MultiLanguage,Experience&row=2&column=4&margin-w=15&margin-h=15" width="800" />  
 </p>
 
 ---
