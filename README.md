@@ -1,3 +1,6 @@
+<!-- Typing Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0CF7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Nirmal+Koswatta;Passionate+Full+Stack+%2B+DevOps+Engineer;Focused+on+Cloud%2C+CI%2FCD%2C+Docker%2C+Kubernetes)](https://git.io/typing-svg)
+
 <h1 align="center">Hi, I'm <b>Nirmal Koswatta</b> 👋</h1>  
 
 <p align="center">
@@ -54,9 +57,7 @@
   <a href="https://github.com/NirmalKoswatta">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://my-portfolio-78a8f.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  
   <a href="mailto:nirmalkoza@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
