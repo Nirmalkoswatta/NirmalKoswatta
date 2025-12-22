@@ -17,8 +17,7 @@
 
 - 🔭 Currently working on **Angular Admin Panels, Firebase Auth & DevOps Pipelines**  
 - 🌱 Learning **Python, Docker, GitHub Actions & Cloud Engineering (AWS, Azure)**  
-- 💬 Ask me about **React, Firebase, Angular, Laravel, Spring Boot, CI/CD, Linux, Nginx**  
-- 🤝 Looking for **Internships (Frontend / DevOps / Full Stack)**  
+- 💬 Ask me about **React, Firebase, Angular, Laravel, Spring Boot, CI/CD, Linux, Nginx**   
 - ⚡ Fun fact: I balance coding with boxing — both fuel my discipline and energy 💪  
 - 📫 Reach me: [nirmalkoza@gmail.com](mailto:nirmalkoza@gmail.com)  
 - 🌍 Based in: **Sri Lanka 🇱🇰**
