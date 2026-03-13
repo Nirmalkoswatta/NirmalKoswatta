@@ -13,17 +13,20 @@
   <img src="https://img.shields.io/github/stars/NirmalKoswatta?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
 
----
-
 ## 🚀 About Me
 
-Name: Nirmal Koswatta
-Location: Sri Lanka 🇱🇰
-Role: DevOps Intern | Full-Stack Developer
-Education: Final Year Computer Science Student
-Focus: DevOps • Cloud • Automation • CI/CD • Scalable Systems
+I am a **DevOps Intern and Final Year Computer Science student** passionate about building scalable systems and modern cloud infrastructure.
 
----
+My focus is on **automation, CI/CD pipelines, containerization, and cloud-native applications** while maintaining strong experience in **full-stack development**.
+
+🔹 DevOps & Cloud: Docker, Kubernetes, AWS, Azure, GitHub Actions  
+🔹 Backend: Laravel, Node.js, Spring Boot  
+🔹 Frontend: React, Angular  
+🔹 Systems: Linux, Nginx, Git
+
+I enjoy solving engineering problems, optimizing workflows, and building reliable production systems.
+
+Outside of coding, I train **boxing**, which strengthens discipline, focus, and consistency.
 
 ### 🌐 Connect with Me  
 
