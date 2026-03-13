@@ -1,26 +1,28 @@
 
-<h1 align="center">Hi, I'm <b>Nirmal Koswatta</b> 👋</h1>  
+<h1 align="center">Hi 👋 I'm <b>Nirmal Koswatta</b></h1>
+
+<h3 align="center">DevOps Engineer | Full-Stack Developer | Final Year CS Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=4A90E2&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%7C+Full-Stack+Developer;Code.+Deploy.+Automate.+Repeat." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=DevOps+Engineer+in+Progress;Cloud+%7C+Automation+%7C+CI%2FCD;Full-Stack+Developer;Build.+Automate.+Deploy.+Scale." alt="Typing SVG" />
 </p>
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=NirmalKoswatta&style=flat-square&color=blue" alt="Profile views" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/NirmalKoswatta?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/NirmalKoswatta?label=Stars" alt="Total Stars">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NirmalKoswatta&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/NirmalKoswatta?style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/NirmalKoswatta?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
 </p>
 
 ---
 
-### 👨‍💻 About Me  
+## 🚀 About Me
 
-- 🔭 Currently working on **Angular Admin Panels, Firebase Auth & DevOps Pipelines**  
-- 🌱 Learning **Python, Docker, GitHub Actions & Cloud Engineering (AWS, Azure)**  
-- 💬 Ask me about **React, Firebase, Angular, Laravel, Spring Boot, CI/CD, Linux, Nginx**   
-- ⚡ Fun fact: I balance coding with boxing — both fuel my discipline and energy 💪  
-- 📫 Reach me: [nirmalkoza@gmail.com](mailto:nirmalkoza@gmail.com)  
-- 🌍 Based in: **Sri Lanka 🇱🇰**
+```yaml
+Name: Nirmal Koswatta
+Location: Sri Lanka 🇱🇰
+Role: DevOps Intern | Full-Stack Developer
+Education: Final Year Computer Science Student
+Focus: DevOps • Cloud • Automation • CI/CD • Scalable Systems
 
 ---
 
