@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I am a **DevOps Intern and Final Year Computer Science student** passionate about building scalable systems and modern cloud infrastructure.
+I am a **DevOps Engineer and Final Year Computer Science student @SLIIT** passionate about building scalable systems and modern cloud infrastructure.
 
 My focus is on **automation, CI/CD pipelines, containerization, and cloud-native applications** while maintaining strong experience in **full-stack development**.
 
