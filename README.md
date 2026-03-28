@@ -63,7 +63,7 @@ Outside of coding, I train **boxing**, which strengthens discipline, focus, and 
   </a>
 </p>
 
----
+--- 
 
 ## 📊 GitHub Stats & Activity  
 
