@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=DevOps+Engineer+in+Progress;Cloud+%7C+Automation+%7C+CI%2FCD;Full-Stack+Developer;Build.+Automate.+Deploy.+Scale." alt="Typing SVG" />
 </p>
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NirmalKoswatta&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/NirmalKoswatta?style=social" alt="followers" />
