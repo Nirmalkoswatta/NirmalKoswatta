@@ -1,6 +1,4 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1424,100:1B4B8F&height=180&text=NIRMAL%20KOSWATTA&fontSize=40&fontColor=E8EEFC&fontAlign=50&fontAlignY=45&desc=JUNIOR%20DEVOPS%20ENGINEER%20%E2%80%A2%20CLOUD%20%26%20CI%2FCD%20%E2%80%A2%20FULL-STACK&descAlign=50&descAlignY=68&descSize=15&descColor=6E9CDB"/> <br/> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=6E9CDB&center=true&vCenter=true&width=560&lines=Automating+deploys+%40+Zuse+Technologies;Docker+%C2%B7+Linux+%C2%B7+CI%2FCD+%C2%B7+Cloud;Currently+leveling+up%3A+Terraform+%2B+Jenkins" alt="typing"/>
-
-<br/><br/>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1424,100:1B4B8F&height=180&text=NIRMAL%20KOSWATTA&fontSize=40&fontColor=E8EEFC&fontAlign=50&fontAlignY=40&desc=JUNIOR%20DEVOPS%20ENGINEER%20%E2%80%A2%20CLOUD%20%26%20CI%2FCD%20%E2%80%A2%20FULL-STACK&descAlign=50&descAlignY=62&descSize=15&descColor=6E9CDB"/> <br/> <table> <tr> <td width="70%" valign="middle"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=6E9CDB&center=true&vCenter=true&width=560&lines=Automating+deploys+%40+Zuse+Technologies;Docker+%C2%B7+Linux+%C2%B7+CI%2FCD+%C2%B7+Cloud;Currently+leveling+up%3A+Terraform+%2B+Jenkins" alt="typing"/> </td> <td width="30%" align="center"> <img src="assets/robot.svg" width="110" alt="robot"/> </td> </tr> </table>
 
 <a href="mailto:nirmalkoza@gmail.com"><img src="https://img.shields.io/badge/EMAIL-nirmalkoza%40gmail.com-0F1424?style=for-the-badge&labelColor=1B4B8F&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/nirmal-koswatta-a7889b281"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0F1424?style=for-the-badge&labelColor=1B4B8F&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Open-Source-DevOps"><img src="https://img.shields.io/badge/ORG-Open--Source--DevOps-0F1424?style=for-the-badge&labelColor=1B4B8F&logo=github&logoColor=white" /></a>
 
@@ -11,9 +9,16 @@ I work on deployment pipelines, containerized environments, and cloud infrastruc
 
 <br/>
 🛠️  Toolbox
-<table width="100%"> <tr> <td align="right" width="130"><b>Production</b></td> <td><img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,nodejs,mongodb,githubactions&theme=dark" /></td> </tr> <tr> <td align="right"><b>Side projects</b></td> <td><img src="https://skillicons.dev/icons?i=react,python,aws,threejs&theme=dark" /></td> </tr> <tr> <td align="right"><b>Leveling up</b></td> <td><img src="https://skillicons.dev/icons?i=terraform,jenkins,kubernetes&theme=dark" /></td> </tr> </table> <br/>
+
+Production <br/> Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+Side projects <br/> Show Image Show Image Show Image Show Image
+
+Leveling up <br/> Show Image Show Image Show Image
+
+<br/>
 📊  GitHub Activity
-<table width="100%"> <tr> <td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=NirmalKoswatta&show_icons=true&hide_title=true&hide_border=true&bg_color=0F1424&title_color=6E9CDB&icon_color=6E9CDB&text_color=c9d1d9&count_private=true" /></td> <td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalKoswatta&layout=compact&hide_title=true&hide_border=true&bg_color=0F1424&title_color=6E9CDB&text_color=c9d1d9&langs_count=6" /></td> </tr> </table> <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NirmalKoswatta&bg_color=0F1424&color=6E9CDB&line=6E9CDB&point=E8EEFC&hide_border=true&height=280" /> </div> <br/>
+<table width="100%"> <tr> <td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=NirmalKoswatta&show_icons=true&hide_title=true&hide_border=true&bg_color=0F1424&title_color=6E9CDB&icon_color=6E9CDB&text_color=c9d1d9&count_private=true" /></td> <td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalKoswatta&layout=compact&hide_title=true&hide_border=true&bg_color=0F1424&title_color=6E9CDB&text_color=c9d1d9&langs_count=6" /></td> </tr> </table> <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NirmalKoswatta&bg_color=0F1424&color=6E9CDB&line=6E9CDB&point=E8EEFC&hide_border=true&height=280" /> </div> <div align="center"> <img width="100%" src="https://github-profile-trophy.vercel.app/?username=NirmalKoswatta&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8&title=Commits,Contributions,Stars,PullRequest,Followers,Experience"/> </div> <br/>
 🚀  Featured Projects
 <table width="100%"> <tr> <td width="50%" valign="top">
 
