@@ -4,48 +4,22 @@
 
 ### 🚀 DevOps Engineer | Cloud | Automation | Full-Stack Developer
 
-</div>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,linux,ansible,argo,prometheus,grafana&perline=6" alt="Cloud and DevOps technologies" />
 
----
+<br/>
 
-# 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,bash,react,nextjs,nodejs,spring,laravel,mongodb,mysql&perline=6" alt="Programming and development technologies" />
 
-<div align="center">
+<br/><br/>
 
-### ☁️ Cloud & DevOps
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+%7C+DevOps+%7C+Automation;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Build+%E2%86%92+Automate+%E2%86%92+Deploy+%E2%86%92+Scale&v=1" alt="Typing animation" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,linux,ansible,argo,prometheus,grafana&perline=6" />
-</p>
+<br/>
 
-### 💻 Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,bash,react,nextjs,nodejs,spring,laravel,mongodb,mysql&perline=6" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma&perline=6" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+%7C+DevOps+%7C+Automation;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+GitOps+%7C+Observability;Build+%E2%86%92+Automate+%E2%86%92+Deploy+%E2%86%92+Scale" alt="Typing animation" />
-
-<br>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=NirmalKoswatta&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/NirmalKoswatta?label=FOLLOWERS&style=for-the-badge&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/NirmalKoswatta?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=for-the-badge&logo=github" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/NirmalKoswatta?label=COMMITS&style=for-the-badge&logo=github" alt="GitHub commit activity" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=NirmalKoswatta&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/NirmalKoswatta?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/NirmalKoswatta?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars" />
+<img src="https://img.shields.io/github/commit-activity/y/NirmalKoswatta?label=COMMITS&style=for-the-badge&logo=github&logoColor=white" alt="GitHub commit activity" />
 
 </div>
 
@@ -61,7 +35,7 @@ My core engineering interests are:
 
 I enjoy solving engineering problems and transforming manual processes into **automated, reproducible, and reliable systems**.
 
-My goal is to build infrastructure that is not only functional, but also **scalable, observable, secure, and easy to maintain**.
+My goal is to build infrastructure that is **scalable, observable, secure, and easy to maintain**.
 
 > **Build systems that don't just run — build systems that deploy, monitor, recover, and scale.**
 
@@ -138,7 +112,7 @@ Outside technology, I train **boxing 🥊**, which keeps me disciplined, focused
 
 ---
 
-## 🏗️ My Engineering Workflow
+## 🏗️ Engineering Workflow
 
 <div align="center">
 
@@ -237,7 +211,7 @@ I continuously experiment with modern infrastructure technologies and build proj
 
 </div>
 
-> **My mission is to turn manual infrastructure into reproducible, automated, observable systems.**
+> **Turning manual infrastructure into reproducible, automated, and observable systems.**
 
 ---
 
@@ -245,9 +219,9 @@ I continuously experiment with modern infrastructure technologies and build proj
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NirmalKoswatta&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NirmalKoswatta&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalKoswatta&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalKoswatta&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages" />
 
 </div>
 
@@ -257,7 +231,7 @@ I continuously experiment with modern infrastructure technologies and build proj
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalKoswatta&theme=github-dark-blue&hide_border=true" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmalKoswatta&theme=github-dark-blue&hide_border=true" width="90%" alt="GitHub contribution streak" />
 
 </div>
 
@@ -302,12 +276,12 @@ I continuously experiment with modern infrastructure technologies and build proj
 ║                                                          ║
 ║          BECOME A WORLD-CLASS DEVOPS ENGINEER           ║
 ║                                                          ║
-║     Learn → Build → Automate → Deploy → Monitor         ║
+║      Learn → Build → Automate → Deploy → Monitor        ║
 ║                          ↓                               ║
 ║                        Improve                           ║
 ║                                                          ║
-║   ☁️ Cloud     ⚙️ Automation     🚀 Delivery             ║
-║   🐳 Docker    ☸️ Kubernetes     📊 Observability        ║
+║   ☁️ Cloud      ⚙️ Automation      🚀 Delivery            ║
+║   🐳 Docker     ☸️ Kubernetes      📊 Observability       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -321,23 +295,23 @@ I continuously experiment with modern infrastructure technologies and build proj
 <div align="center">
 
 <a href="mailto:nirmalkoza@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://linkedin.com/in/nirmal-koswatta-a7889b281">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/NirmalKoswatta">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://instagram.com/nirmal_kosa">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <a href="https://twitter.com/NKosa003">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
 </div>
@@ -348,18 +322,18 @@ I continuously experiment with modern infrastructure technologies and build proj
 
 ### 🥊 Code. Automate. Deploy. Repeat.
 
-<br>
+<br/>
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Coding animation" />
 
-<br><br>
+<br/><br/>
 
 ### **“Great systems are not built by doing more.**
 
 ### **They are built by automating what should never be manual.”**
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%" alt="Footer wave" />
 
 </div>
