@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=NirmalKoswatta&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/NirmalKoswatta?style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/NirmalKoswatta?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" />
-</p>
+</p> 
 
 ## 🚀 About Me
 
